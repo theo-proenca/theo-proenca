@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theo Proença</h1>
-<h3 align="center">I'm starting my journey into Data Science</h3>
+<h3 align="center">I'm starting my journey into Front-end Web Development</h3>
 
 - 🔭 I’m currently working on **becoming a Front-end Dev**
 
