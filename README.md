@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Theo Proença</h1>
 <h3 align="center">I'm starting my journey into Data Science</h3>
 
-- 🔭 I’m currently working on **becoming a Data Analyst**
+- 🔭 I’m currently working on **becoming a Front-end Dev**
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me: **theoproenca@gmail.com**
 
@@ -13,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> </p>
